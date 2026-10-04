@@ -20,6 +20,7 @@ The application combines a Large Language Model (LLM), prompt engineering, Retri
 * 🔐 Environment-variable based API authentication
 
 ## 🏗️ Architecture
+![AI Career & Interview Assistant Architecture](architecture.png)
 
 ```text
 User
